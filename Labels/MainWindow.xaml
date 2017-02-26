@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Labels"
         mc:Ignorable="d"
-        Title="Ярлычки" Width="150" SizeToContent="Height" WindowStartupLocation="CenterScreen" WindowStyle="None"
+        Title="Labels" Width="150" SizeToContent="Height" WindowStartupLocation="CenterScreen" WindowStyle="None"
         Background="Transparent" AllowsTransparency="True">
     <Window.Resources>
         <ControlTemplate x:Key="ButtonTemplate" TargetType="Button">
