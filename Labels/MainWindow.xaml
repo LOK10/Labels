@@ -86,12 +86,10 @@
         <StackPanel>
             <Grid>
                 <Grid.ColumnDefinitions>
-                    <ColumnDefinition Width="auto" />
                     <ColumnDefinition Width="*" />
                     <ColumnDefinition Width="auto" />
                 </Grid.ColumnDefinitions>
-                <Image  ></Image>
-                <Button Grid.Column="2" Name="closeButton" Click="closeButton_Click" Style="{StaticResource CloseButton}">
+                <Button Grid.Column="1" Name="closeButton" Click="closeButton_Click" Style="{StaticResource CloseButton}">
                     <Path Stroke="White" StrokeThickness="5" Stretch="Uniform" Data="M0,0 L8,8 M0,8 L8,0" HorizontalAlignment="Center" VerticalAlignment="Center" RenderTransformOrigin="0.5,0.5" >
                         <Path.RenderTransform>
                             <TransformGroup>
