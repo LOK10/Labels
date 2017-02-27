@@ -1,4 +1,4 @@
-# Labels
+# <img src="Labels/lableIcon.ico" alt="Labels Logo" /> Labels
 Small program for Windows to save and restore labels positions on desktop.
 ##
 <p align="center">
